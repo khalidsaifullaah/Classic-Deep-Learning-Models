@@ -35,7 +35,9 @@
 </p>
 
 
-> At the very beginning, the **Generator** model is totally dumb, doesn't know how to make an image of a digit, thus generates totally noisy, random, fake images [figure 1]. **Discriminator** comes to the rescue here, It's job is to discriminate real images of MNIST dataset from the fake images produced by the Generator. Discriminator easily identifies the fake images as they are really terrible at initial epochs [figure 2]. However, as time passes, with the help and feedback of Discriminator, Generator starts to get the pattern and produces good fake images [figure 3] that successfully fools the Discriminator
+> At the very beginning, the **Generator** model is totally dumb, doesn't know how to make an image of a digit, thus **_generates totally noisy, random, fake images_** [figure 1]. **Discriminator** comes to the rescue here, It's **_job is to discriminate real images of MNIST dataset from the fake images_** produced by the Generator. Discriminator easily identifies the fake images as they are really terrible at initial epochs [figure 2]. However, as time passes, with the help and feedback of Discriminator, **_Generator starts to get the pattern and produces good fake images_** [figure 3] that successfully fools the Discriminator. 
+
+_Video demonstration could be found [here](https://youtu.be/jvpym3Coxn0)_
 
 
 
