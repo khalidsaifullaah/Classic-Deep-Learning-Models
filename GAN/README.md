@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a style ="color:black; text-decoration:none;" href="https://khalidsaifullaah.github.io/pathfinding-visualizer/">GAN (Generative Adversarial Network)</a>
+  <a style ="color:black; text-decoration:none;" href="https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/blob/master/GAN/Pytorch_GAN.ipynb">GAN (Generative Adversarial Network)</a>
 </h1>
 
 <h4 align="center">The model learns to generate image of digits using MNIST dataset</h4>
