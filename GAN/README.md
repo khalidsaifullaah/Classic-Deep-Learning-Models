@@ -4,12 +4,10 @@
   <a style ="color:black; text-decoration:none;" href="https://khalidsaifullaah.github.io/pathfinding-visualizer/">GAN (Generative Adversarial Network)</a>
 </h1>
 
-<h4 align="center">The model learns to generate images of digits using MNIST dataset</h4>
+<h4 align="center">The model learns to generate image of digits using MNIST dataset</h4>
 
 
 <p align="center">
-  <a href="#live-demo">Live Demo</a> •
-  <a href="#development-stack">Development Stack</a> •
   <a href="#brief-info-about-the-algorithms">Brief Info About The Training Process</a> •
 <a href="#framework">Framework</a> •
   <a href="#plots">Plots</a>
