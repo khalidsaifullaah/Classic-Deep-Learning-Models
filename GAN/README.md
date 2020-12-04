@@ -37,7 +37,8 @@
 </p>
 
 
->> At the very begining the **Generator** model is totally dumb, don't know how to make an image of a digit, thus generates totally noisy, random, fake images [figure 1]. **Discriminator** comes to rescue here, It's job is to discriminate real images of MNIST dataset from the fake images produced by the Generator. Discriminator easily identifies the fake images as they are really terrible at initial epochs [figure 2]. However as time passes, with the help and feedback of Discriminator, Generator starts to get the pattern and produces good fake images that successfully fools the Discriminator
+> At the very begining the **Generator** model is totally dumb, don't know how to make an image of a digit, thus generates totally noisy, random, fake images [figure 1]. **Discriminator** comes to rescue here, It's job is to discriminate real images of MNIST dataset from the fake images produced by the Generator. Discriminator easily identifies the fake images as they are really terrible at initial epochs [figure 2]. However as time passes, with the help and feedback of Discriminator, Generator starts to get the pattern and produces good fake images that successfully fools the Discriminator
+
 
 
 
@@ -49,8 +50,9 @@
 
 ## Plots
 <p align="center">
-<img width="50%" src="./lossVepoch.png">
-<img width="50%" src="./accuracyVepoch.png">
+<img width="40%" src="./lossVepoch.png">
+<img width="41%" src="./accuracyVepoch.png">
+<p align="center">figure 4: (Left) Loss vs Epoch. Generator started with a high loss but then it deducted. (Right) Accuracy vs Epoch. Generator's accuracy increased after a certain time as Discriminator's decreased as it failed to identify fake images produced by Generator</p>
 </p>
 
 
