@@ -10,8 +10,9 @@
 <p align="center">
   <a href="#live-demo">Live Demo</a> •
   <a href="#development-stack">Development Stack</a> •
-  <a href="#brief-info-about-the-algorithms">Brief Info About The Algorithms</a> •
-  <a href="#credits">Credits</a>
+  <a href="#brief-info-about-the-algorithms">Brief Info About The Training Process</a> •
+<a href="#framework">Framework</a> •
+  <a href="#plots">Plots</a>
 </p>
 
 <h1 align="center"><img src="https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/blob/master/GAN/GAN_training.gif?raw=true"/></h1>
@@ -41,22 +42,17 @@
 
 
 ## Framework
-<h1 align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="P5.js logo">
-</h1>
+
+<img width="50%" height="50%" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="P5.js logo">
 
 
-## Credits
 
+## Plots
+<p align="center">
+<img width="50%" src="./lossVepoch.png">
+<img width="50%" src="./accuracyVepoch.png">
+</p>
 
-- [Daniel Shiffman's](https://github.com/shiffman/) video resources on P5.js helped me a lot to get a clear understanding about the library.
-- [Clément Mihailescu's](https://github.com/clementmihailescu) similar project inspired me a lot for the UI and the project itself
-- [P5.js](https://p5js.org/) The library behind the viz
-
-
-## You may also like...
-
-- [8-Puzzle Using A* Search](https://khalidsaifullaah.github.io/8-Puzzle-A-Star-Search/) - Interactive way to solve the puzzle or get it solved by the AI
 
 
 ---
