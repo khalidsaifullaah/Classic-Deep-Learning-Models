@@ -14,30 +14,25 @@
   <a href="#credits">Credits</a>
 </p>
 
-<div style="text-align:center"><img src="https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/blob/master/GAN/GAN_training.gif?raw=true"/></div>
+<h1 align="center"><img src="https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/blob/master/GAN/GAN_training.gif?raw=true"/></h1>
 
 
-
-## Framework
-<h1 align="center">
-<img width="80%" height="100" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="P5.js logo">
-</h1>
 
 ## Brief Info About The Training Process
 
 <p align="center">
-<img width="20%" height="100" src="./untrained_image.png">
+<img src="./untrained_image.png">
 <p align="center">figure 1: generated image without any training</p>
 </p>
 
 <p align="center">
-<img width="20%" height="100" src="./untrained_image.png">
+<img src="./first_epoch_fake_image.png">
 <p align="center">figure 2: generated image at first epoch of training</p>
 </p>
 
 <p align="center">
-<img width="20%" height="100" src="./untrained_image.png">
-<p align="center">figure 1: generated image without any training</p>
+<img src="./fake_images-0500.png">
+<p align="center">figure 3: generated image at 50th epoch of training</p>
 </p>
 
 
@@ -45,15 +40,10 @@
 
 
 
-- ### **Best-First Search (Greedy):**
-    ![screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif)
-    
-    Best-first search is a search algorithm which explores a graph by expanding the most promising node chosen according to a specified rule.
-    Judea Pearl described best-first search as estimating the promise of node n by a "heuristic evaluation function {\displaystyle f(n)}f(n) which, in general, may depend on the description of n, the description of the goal, the information gathered by the search up to that point, and most important, on any extra knowledge about the problem domain."
-    Some authors have used "best-first search" to refer specifically to a search with a heuristic that attempts to predict how close the end of a path is to a solution, so that paths which are judged to be closer to a solution are extended first. This specific type of search is called greedy best-first search or pure heuristic search.
-    _-Wikipedia_
-
-_*Note\: The GIF images are unashamedly taken from Wikipedia as well*_
+## Framework
+<h1 align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="P5.js logo">
+</h1>
 
 
 ## Credits
