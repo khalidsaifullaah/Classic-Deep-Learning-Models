@@ -5,7 +5,7 @@ The paper of [VGGNet (Very Deep Convolutional Networks for Large-Scale Image Rec
 ## Implemented Architecture
 
 <p align="center">
-<img src="./vgg-19-architecture.png" width="10%" height="10%">
+<img src="./vgg-19-architecture.png" width="15%" height="10%">
 <p align="center">figure 1: VGGNet19</p>
 </p>
 
