@@ -14,7 +14,7 @@ The paper of [VGGNet (Very Deep Convolutional Networks for Large-Scale Image Rec
 
 ---
 
-> Stack Overflow [@khalid-saifullah](https://github.com/khalidsaifullaah) &nbsp;&middot;&nbsp;
+> Stack Overflow [@khalid-saifullah](https://stackoverflow.com/users/7610724/khalid-saifullah) &nbsp;&middot;&nbsp;
 > GitHub [@khalidsaifullaah](https://github.com/khalidsaifullaah) &nbsp;&middot;&nbsp;
 > Facebook [@ikhalidsaifullaah](https://www.facebook.com/ikhalidsaifullaah/) &nbsp;&middot;&nbsp;
 > Twitter [@k_saifullaah](https://twitter.com/k_saifullaah) &nbsp;&middot;&nbsp;

@@ -1,12 +1,11 @@
-# ResNet 
+# GoogLeNet 
 
-This model introduces the idea of residual block that solves the degradation problem of deep layered networks. I've implemented the 18 layered version of the model, known as **ResNet18**. The dataset I've used to train the model is **CIFAR-10**.
 
 ## Implemented Architecture
 
 <p align="center">
-<img src="./Network Architecture.png">
-<p align="center">figure 1: ResNet18</p>
+<img src="https://miro.medium.com/max/2434/1*_rCyzi7fQzc_Q1gCqSLM1g.png">
+<p align="center">figure 1: GoogLeNet</p>
 </p>
 
 ## Analysis coming soon...

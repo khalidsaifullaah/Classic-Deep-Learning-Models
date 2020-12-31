@@ -59,7 +59,7 @@ _Video demonstration could be found [here](https://youtu.be/jvpym3Coxn0)_
 
 ---
 
-> Stack Overflow [@khalid-saifullah](https://github.com/khalidsaifullaah) &nbsp;&middot;&nbsp;
+> Stack Overflow [@khalid-saifullah](https://stackoverflow.com/users/7610724/khalid-saifullah) &nbsp;&middot;&nbsp;
 > GitHub [@khalidsaifullaah](https://github.com/khalidsaifullaah) &nbsp;&middot;&nbsp;
 > Facebook [@ikhalidsaifullaah](https://www.facebook.com/ikhalidsaifullaah/) &nbsp;&middot;&nbsp;
 > Twitter [@k_saifullaah](https://twitter.com/k_saifullaah) &nbsp;&middot;&nbsp;
