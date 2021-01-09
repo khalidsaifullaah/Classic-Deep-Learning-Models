@@ -4,5 +4,6 @@
 
 ## Index
 - ### [GAN (Generative Adverserial Network)](https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/tree/master/GAN)
-- ### [ResNet](https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/tree/master/ResNet)
 - ### [VGGNet](https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/tree/master/VGGNet)
+- ### [GoogLeNet](https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/tree/master/GoogLeNet)
+- ### [ResNet](https://github.com/khalidsaifullaah/Classic-Deep-Learning-Models/tree/master/ResNet)
